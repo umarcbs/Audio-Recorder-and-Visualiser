@@ -1,4 +1,4 @@
-# Audio Recorder and Visulaiser 
+# Audio Recorder and Visualiser 
 - Recording audio in the form of .wav audio file.
 - Visualizing the .wav audio file in the form of a signal wave
 
