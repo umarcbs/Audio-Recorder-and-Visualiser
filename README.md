@@ -5,7 +5,7 @@
 # How to Use
 - In order to record audio, enter command:
 ```sh
-python passGenLenpy.py
+python recorder.py
 ```
 Then Enter name of audio to be saved. Simply enter name (say: test) then it will start recording and will save it as test.wav. 
 
