@@ -11,9 +11,9 @@ Then Enter name of audio to be saved. Simply enter name (say: test) then it will
 
 - In order to visualise auido, enter command:
 ```sh
-python visualize_wav.py audio.wav
+python visualize_wav.py test.wav
 ```
-It will automatically generate signal wave of .wav audio file.
+It will automatically generate signal wave of .wav audio file. You can also use other .wav files also.
 
 
 
